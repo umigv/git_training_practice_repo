@@ -8,6 +8,7 @@ int main(){
     printf("Leinad Narag, 09/16/20, 16:25:00");
     printf("John Hill, 09/18/20, 18:11:00");
     printf("Garadan1, 09/18/20, 18:39:00");
+    printf("Nick Maggi, 09/18/20, 18:41:00");
     printf("Jose Diaz");
     return 0;
 }
