@@ -2,7 +2,7 @@
 
 int main(){
     printf("Hello, ARV!");
-    
+
     // Add your name and the current date/time
     printf("Daniel Garan, 09/16/20, 16:18:00");
     printf("Leinad Narag, 09/16/20, 16:25:00");
@@ -10,5 +10,6 @@ int main(){
     printf("Garadan1, 09/18/20, 18:39:00");
     printf("Nick Maggi, 09/18/20, 18:41:00");
     printf("Jose Diaz");
+    printf("Ali Almasmari, 09/26/20, 22:43:00");
     return 0;
 }
