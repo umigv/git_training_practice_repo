@@ -10,5 +10,6 @@ int main(){
     printf("Garadan1, 09/18/20, 18:39:00");
     printf("Nick Maggi, 09/18/20, 18:41:00");
     printf("Jose Diaz");
+    printf("Kohei Nishiyama, 9/27/10, 15:52:00")
     return 0;
 }
